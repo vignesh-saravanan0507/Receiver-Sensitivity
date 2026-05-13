@@ -75,5 +75,5 @@ Your report should include:
 
 ---
 
-##Result
+## Result
 Hence the output is successfully verified.
